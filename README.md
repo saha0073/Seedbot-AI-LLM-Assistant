@@ -32,7 +32,7 @@ Seedbot is built using a modern tech stack designed for efficient natural langua
 - Backend:
   - Python
   - LangChain for LLM integration and agents
-  - OpenAI GPT-4 for natural language understanding and generation
+  - OpenAI GPT-4o for natural language understanding and generation
 - Retrieval-Augmented Generation (RAG):
   - Pinecone for storing vector embeddings
   - LangChain for creating embeddings and retriever functionality
