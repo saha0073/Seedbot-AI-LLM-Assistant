@@ -4,6 +4,12 @@
 
 Seedbot is an AI-powered assistant designed to provide information about Seedworld, a metaverse gaming platform. This unofficial chatbot leverages advanced language models and Retrieval-Augmented Generation (RAG) technology to offer accurate and context-aware responses based on the official Seedworld whitepaper.
 
+## Quick Links
+
+- [Try Seedbot AI Assistant](https://seedbot-ai-llm-assistant-ey4zmfte7jzf7cfazmeupm.streamlit.app/)
+- [Seedworld on X (Twitter)](https://x.com/SeedworldMeta)
+- [Seedworld Whitepaper](https://seedworld.gitbook.io/seedworld-wp)
+
 ## Features
 
 - Provides detailed information on Seedworld's:
@@ -40,7 +46,8 @@ This combination allows for accurate, context-aware responses while maintaining 
 ## Usage
 
 To run the Seedbot assistant:
-`streamlit run app.py'
+`streamlit run app.py`
+
 
 ## Disclaimer
 
