@@ -4,12 +4,19 @@
 
 Seedbot is an AI-powered assistant designed to provide information about Seedworld, a metaverse gaming platform. This unofficial chatbot leverages advanced language models and Retrieval-Augmented Generation (RAG) technology to offer accurate and context-aware responses based on the official Seedworld whitepaper.
 
+## About Seedworld
+
+Seedworld is an immersive AAA metaverse where user-generated content (UGC) gaming meets web3 and real-world economies, built by Seedify. It offers a unique blend of creation, gaming, and blockchain technology, allowing players to craft dream landscapes, engage in epic battles, and earn rewards in the form of $SWORLD tokens. The platform features various game modes, including an exciting upcoming survivor shooter game that combines third-person shooter action with base-raiding and survival mechanics [Seedworld Landing Page](https://seedworld.io/landing).
+
+## 🚀 Try the App
+
+You can test the live app here: [Seedbot AI Assistant](https://seedbot-ai-llm-assistant-ey4zmfte7jzf7cfazmeupm.streamlit.app/)
+
 ## Quick Links
 
-- [Try Seedbot AI Assistant](https://seedbot-ai-llm-assistant-ey4zmfte7jzf7cfazmeupm.streamlit.app/)
 - [Seedworld on X (Twitter)](https://x.com/SeedworldMeta)
 - [Seedworld Whitepaper](https://seedworld.gitbook.io/seedworld-wp)
-
+- [Seedify on X (Twitter)](https://x.com/SeedifyFund)
 ## Features
 
 - Provides detailed information on Seedworld's:
