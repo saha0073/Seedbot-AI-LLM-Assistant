@@ -17,6 +17,16 @@ You can test the live app here: [Seedbot AI Assistant](https://seedbot-ai-llm-as
 - [Seedworld on X (Twitter)](https://x.com/SeedworldMeta)
 - [Seedworld Whitepaper](https://seedworld.gitbook.io/seedworld-wp)
 - [Seedify on X (Twitter)](https://x.com/SeedifyFund)
+
+## Sample Queries
+
+Here are some example questions you can ask Seedbot:
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Game Modes" src="figures/gamemodes.png">  Game Modes |  <img width="1604" alt="Features" src="figures/features.png"> Features|
+|<img width="1604" alt="Currency" src="figures/currency.png"> Currency |  <img width="1604" alt="NFTs" src="figures/nfts.png"> NFTs|
+
 ## Features
 
 - Provides detailed information on Seedworld's:
